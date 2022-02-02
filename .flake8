@@ -1,0 +1,4 @@
+[flake8]
+ignore = C011,D2,E121,E123,E24,E704,E731,F401,F405,F52,F54,F812,H101,H202,H233,H301,H306,H401,H403,H404,H405,H501,W292,W50
+exclude = .git,__pycache__,docs,old,build,dist,tests,.gitignore,.vscode,.virtual_documents,.ipynb_checkpoints,.pytest_cache
+max_complexity = 10
