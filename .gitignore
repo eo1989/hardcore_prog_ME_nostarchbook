@@ -50,7 +50,6 @@ obj/
 [Rr]elease/
 Ankh.NoLoad
 .env[rc]
-.flake8
 
 #Tooling
 _ReSharper*/
